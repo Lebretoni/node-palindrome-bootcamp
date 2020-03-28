@@ -1,3 +1,4 @@
+//We worked on this as a group; Gardner.
 document.querySelector('#clickMe').addEventListener('click',checkPalindrome)
 
 function checkPalindrome() {
